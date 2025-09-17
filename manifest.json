@@ -47,6 +47,16 @@
     ],
     "start_url": "index.html",
     "display": "standalone",
-    "theme_color": "#07167f",
-    "background_color": "#07167f"
+    "theme_color": "#f7ac20",
+    "background_color": "#f7ac20",
+	"orientation": "portrait",
+	"display": "fullscreen",
+	"display_override": [
+		"fullscreen"
+	],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
 }
